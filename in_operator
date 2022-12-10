@@ -1,0 +1,5 @@
+name = ["Jack", "Jones"];
+if("Jack" in name):
+  print("Found");
+else:
+  print("Not found")
